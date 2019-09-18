@@ -32,23 +32,8 @@ dla plików, które zostały wybrane do za-commit'owania.
 
 ## Konwencje i dobre praktyki
 
-DO UZUPEŁNIENIA
-
-# task WDP190504-35
-
-## Description
-
--CLI for Autoprefixer
-
-- Live CSS Reload & Browser Syncing
-  -Wrapper around libsass
-  -Use glob patterns to view filesets and run a command when something is added, changed or deleted.
-
-## scripts
-
-watch:sassprefixer - Scirpt launch collection for CSS(3) which prefixes mixins library for Sass/Scss.
-
-watch:browsersync - Browsersync script cuts out repetitive manual tasks. From live reloads to URL pushing, form replication to click mirroring.
+Praca indywidualna z co tygodniowym code-review,
+głównie przy dopisywaniu skryptów js, tworzeniu komponentów, oraz stylowaniu na scss
 
 ## Moje zadania z jira
 
