@@ -1,12 +1,10 @@
 # WDP Projekt Zespołowy
 
+Czterosobowa praca zespołowa pod nadzorem projekt menadżera i dwóch mentorów koordynujących
+
 ## Opis projektu
 
-DO UZUPEŁNIENIA
-
-## Demo
-
-DO UZUPEŁNIENIA
+Projekt zakłada stworzenie wizualnej strony dostarczonej według wymagań designera
 
 ## Inicjacja projektu
 
@@ -51,3 +49,9 @@ DO UZUPEŁNIENIA
 watch:sassprefixer - Scirpt launch collection for CSS(3) which prefixes mixins library for Sass/Scss.
 
 watch:browsersync - Browsersync script cuts out repetitive manual tasks. From live reloads to URL pushing, form replication to click mirroring.
+
+## Moje zadania z jira
+
+1. Create section--promotion
+2. Create section--features
+3. Create section--products
