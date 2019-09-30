@@ -9492,4 +9492,4 @@ parcelRequire = (function(e, r, t, n) {
   ['QanN'],
   null
 );
-//# sourceMappingURL=/bootstrap.min.638a63f3.js.map
+//# sourceMappingURL=/One-month-team-project/bootstrap.min.638a63f3.js.map

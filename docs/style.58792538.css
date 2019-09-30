@@ -11511,12 +11511,13 @@ a.text-dark:hover {
   font-family: Font Awesome\ 5 Free;
   font-style: normal;
   font-weight: 900;
-  src: url(/fa-solid-900.5ba446d2.eot);
-  src: url(/fa-solid-900.5ba446d2.eot?#iefix) format("embedded-opentype"),
-    url(/fa-solid-900.71f9d02d.woff2) format("woff2"),
-    url(/fa-solid-900.76784b6b.woff) format("woff"),
-    url(/fa-solid-900.42e0f0e4.ttf) format("truetype"),
-    url(/fa-solid-900.dd9f3f72.svg#fontawesome) format("svg");
+  src: url(/One-month-team-project/fa-solid-900.5ba446d2.eot);
+  src: url(/One-month-team-project/fa-solid-900.5ba446d2.eot?#iefix)
+      format("embedded-opentype"),
+    url(/One-month-team-project/fa-solid-900.71f9d02d.woff2) format("woff2"),
+    url(/One-month-team-project/fa-solid-900.76784b6b.woff) format("woff"),
+    url(/One-month-team-project/fa-solid-900.42e0f0e4.ttf) format("truetype"),
+    url(/One-month-team-project/fa-solid-900.dd9f3f72.svg#fontawesome) format("svg");
 }
 .fa,
 .fas,
@@ -11534,12 +11535,13 @@ a.text-dark:hover {
   font-family: Font Awesome\ 5 Brands;
   font-style: normal;
   font-weight: 400;
-  src: url(/fa-brands-400.b9b3addf.eot);
-  src: url(/fa-brands-400.b9b3addf.eot?#iefix) format("embedded-opentype"),
-    url(/fa-brands-400.2d777408.woff2) format("woff2"),
-    url(/fa-brands-400.c91a2b26.woff) format("woff"),
-    url(/fa-brands-400.021ca20e.ttf) format("truetype"),
-    url(/fa-brands-400.a2171fa3.svg#fontawesome) format("svg");
+  src: url(/One-month-team-project/fa-brands-400.b9b3addf.eot);
+  src: url(/One-month-team-project/fa-brands-400.b9b3addf.eot?#iefix)
+      format("embedded-opentype"),
+    url(/One-month-team-project/fa-brands-400.2d777408.woff2) format("woff2"),
+    url(/One-month-team-project/fa-brands-400.c91a2b26.woff) format("woff"),
+    url(/One-month-team-project/fa-brands-400.021ca20e.ttf) format("truetype"),
+    url(/One-month-team-project/fa-brands-400.a2171fa3.svg#fontawesome) format("svg");
 }
 .fab {
   font-family: Font Awesome\ 5 Brands;
@@ -11553,12 +11555,13 @@ a.text-dark:hover {
   font-family: Font Awesome\ 5 Free;
   font-style: normal;
   font-weight: 400;
-  src: url(/fa-regular-400.15c2fb34.eot);
-  src: url(/fa-regular-400.15c2fb34.eot?#iefix) format("embedded-opentype"),
-    url(/fa-regular-400.3e45f3ff.woff2) format("woff2"),
-    url(/fa-regular-400.fbaac3f7.woff) format("woff"),
-    url(/fa-regular-400.1e63ac5a.ttf) format("truetype"),
-    url(/fa-regular-400.c5846056.svg#fontawesome) format("svg");
+  src: url(/One-month-team-project/fa-regular-400.15c2fb34.eot);
+  src: url(/One-month-team-project/fa-regular-400.15c2fb34.eot?#iefix)
+      format("embedded-opentype"),
+    url(/One-month-team-project/fa-regular-400.3e45f3ff.woff2) format("woff2"),
+    url(/One-month-team-project/fa-regular-400.fbaac3f7.woff) format("woff"),
+    url(/One-month-team-project/fa-regular-400.1e63ac5a.ttf) format("truetype"),
+    url(/One-month-team-project/fa-regular-400.c5846056.svg#fontawesome) format("svg");
 }
 .far,
 .product-box .content .stars span,
@@ -13092,4 +13095,4 @@ body {
   font-family: Poppins, sans-serif;
 }
 
-/*# sourceMappingURL=/style.ff0ebcf6.css.map */
+/*# sourceMappingURL=/One-month-team-project/style.58792538.css.map */

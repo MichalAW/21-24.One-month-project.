@@ -1,5 +1,5 @@
 {
-  "name": "kodilla-projekt",
+  "name": "One-month-team-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "watch:sassprefixer": "node-sass --output-style expanded --source-map true -o css sass --watch && onchange -d 100 src/sass/*.{scss} -- autoprefixer-cli -o src/sass/*.{prefixed.scss} src/sass/*.{scss}",
     "watch:browsersync": "node_modules/.bin/browser-sync start --server --files src/sass/*.{scss} *.html",
     "prebuild": "npm run clean",
-    "build": "parcel build src/index.html && parcel build src/product-details.html",
+    "build": "parcel build src/index.html --out-dir docs --public-url /One-month-team-project",
     "clean": "rimraf dist",
     "code-quality": "npm run format && npm run lint",
     "format": "prettier --write \"src/**/*.{js,html,scss}\"",

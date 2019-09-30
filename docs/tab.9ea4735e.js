@@ -96,4 +96,4 @@ parcelRequire = (function(e, r, t, n) {
   ['qTEY'],
   null
 );
-//# sourceMappingURL=/tab.9ea4735e.js.map
+//# sourceMappingURL=/One-month-team-project/tab.9ea4735e.js.map

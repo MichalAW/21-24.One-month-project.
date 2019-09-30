@@ -125,4 +125,4 @@ parcelRequire = (function(e, r, t, n) {
   ['U4oe'],
   null
 );
-//# sourceMappingURL=/stars.05882b33.js.map
+//# sourceMappingURL=/One-month-team-project/stars.05882b33.js.map

@@ -70,4 +70,4 @@ parcelRequire = (function(e, r, t, n) {
   ['d+pd'],
   null
 );
-//# sourceMappingURL=/app.46aebb9d.js.map
+//# sourceMappingURL=/One-month-team-project/app.46aebb9d.js.map
