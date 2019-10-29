@@ -14,6 +14,8 @@ Teraz możesz zacząć pracę, korzystając z przygotowanych zadania `npm run wa
 
 Wszystkie potrzebne do pracy pliki źródłowe znajdują się w folderze `src/`.
 
+Link strony --> https://michalaw.github.io/One-month-team-project/
+
 ## NPM Scripts
 
 Dostępne są 3 główne skrypty przyspieszające pracę:
